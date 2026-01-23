@@ -45,7 +45,7 @@ This project demonstrates advanced Power BI capabilities including:
 
 ### Overview
 
-<img src="Resources/images/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
+<img src="Resources/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
 
 
 ---
