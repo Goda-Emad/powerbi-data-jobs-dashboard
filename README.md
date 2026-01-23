@@ -13,13 +13,13 @@
 
 ## 📝 Project Overview
 
-The **Data Jobs Dashboard** is designed to help **job seekers, career switchers, and data enthusiasts** explore the 2024 data job market.  
-This dashboard consolidates real-world job postings including **job titles, salaries, locations, and key skills**, making it easier to understand market trends and compensation patterns.
+The **Data Jobs Dashboard** helps **job seekers, career switchers, and data enthusiasts** explore the 2024 data job market.  
+It consolidates real-world job postings: **job titles, salaries, locations, and key skills**, providing clear insights into market trends and compensation patterns.
 
-**Key highlights:**
-- Identify top-paying roles and in-demand skills.
-- Compare salary ranges across different job titles.
-- Visualize global job distribution with interactive maps.
+**Key Highlights:**
+- Identify top-paying roles and in-demand skills
+- Compare salary ranges across job titles
+- Visualize global job distribution with interactive maps
 
 ---
 
@@ -31,31 +31,21 @@ You can download and explore the Power BI dashboard here:
 
 ## 🛠️ Skills Demonstrated
 
-This project demonstrates advanced Power BI capabilities including:
-
-- **⚙️ Data Transformation (ETL) with Power Query**: Cleaned, shaped, and prepared the dataset for analysis.  
-- **🧮 Implicit Measures & KPIs**: Calculated Median Salary, Job Count, and other key metrics.  
-- **📊 Visualizations**: Column, Bar, Line, Area Charts, and Map Charts for geospatial insights.  
-- **🔢 Interactive Dashboards**: Slicers, Buttons, Bookmarks, and Drill-Through pages for deep-dive analysis.  
-- **🎨 Dashboard Design**: Clean, intuitive layout for a professional look.  
+- **Data Transformation (ETL) with Power Query**: Cleaned and prepared datasets for analysis  
+- **Implicit Measures & KPIs**: Calculated Median Salary, Job Count, and key metrics  
+- **Visualizations**: Column, Bar, Line, Area, and Map charts  
+- **Interactive Dashboards**: Slicers, Buttons, Bookmarks, and Drill-Through pages  
+- **Dashboard Design**: Clean and intuitive layout for professional presentation
 
 ---
 
 ## 📊 Dashboard Preview
 
-### Overview
-
-<a href="PUT_YOUR_POWER_BI_LINK_HERE" target="_blank">
-  <img src="Resources/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
-</a>
-
----
-
-### Page 1: High-Level Market View
+### Page 1: Overview & High-Level Market View
 
 <img src="Resources/Project1_Dashboard_Page1.png" alt="Data Jobs Dashboard Page 1" width="800">
 
-This page provides **key KPIs** like total job count, median salaries, and top job titles for a quick market snapshot.
+**Key KPIs:** Total job count, median salaries, and top job titles.
 
 ---
 
@@ -63,13 +53,13 @@ This page provides **key KPIs** like total job count, median salaries, and top j
 
 <img src="Resources/Project1_Dashboard_Page2.png" alt="Data Jobs Dashboard Page 2" width="800">
 
-This deep-dive page shows details for a single job title, including salary ranges, remote work stats, top hiring platforms, and a global map of job locations.
+Shows details for a single job title: salary ranges, remote work stats, top hiring platforms, and global job locations.
 
 ---
 
 ## 📈 Conclusion
 
-This dashboard transforms raw job posting data into a **powerful career insights tool**, helping users make informed decisions about their career paths in data analytics.  
+This dashboard transforms raw job posting data into a **powerful career insights tool**, helping users make informed decisions about their data analytics career paths.
 
 ---
 
@@ -77,11 +67,12 @@ This dashboard transforms raw job posting data into a **powerful career insights
 
 - **LinkedIn**: [Goda Emad](https://www.linkedin.com/in/goda-emad/)  
 - **GitHub**: [Goda-Emad](https://github.com/Goda-Emad)  
+- **Email**: goda.emade2001@gmail.com
 
 ---
 
 ## 🏷️ Notes
 
-- Replace `PUT_YOUR_POWER_BI_LINK_HERE` with your live Power BI Service link (if available).  
-- Ensure all images are uploaded to: `Resources/`.  
-- Badge links can be customized to highlight other tools if desired.
+- Replace `PUT_YOUR_POWER_BI_LINK_HERE` with your live Power BI Service link (if available)  
+- Ensure all images are uploaded to the `Resources/` folder  
+- Badge links can be customized as needed
