@@ -52,7 +52,7 @@ This project demonstrates advanced Power BI capabilities including:
 
 ### Page 1: High-Level Market View
 
-<img src="Resources/images/Project1_Dashboard_Page1.png" alt="Data Jobs Dashboard Page 1" width="800">
+<img src="Resources/Project1_Dashboard_Page1.png" alt="Data Jobs Dashboard Page 1" width="800">
 
 This page provides **key KPIs** like total job count, median salaries, and top job titles for a quick market snapshot.
 
@@ -60,7 +60,7 @@ This page provides **key KPIs** like total job count, median salaries, and top j
 
 ### Page 2: Job Title Drill-Through
 
-<img src="Resources/images/Project1_Dashboard_Page2.png" alt="Data Jobs Dashboard Page 2" width="800">
+<img src="Resources/Project1_Dashboard_Page2.png" alt="Data Jobs Dashboard Page 2" width="800">
 
 This deep-dive page shows details for a single job title, including salary ranges, remote work stats, top hiring platforms, and a global map of job locations.
 
