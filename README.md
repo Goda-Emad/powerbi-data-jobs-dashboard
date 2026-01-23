@@ -47,6 +47,7 @@ This project demonstrates advanced Power BI capabilities including:
 
 <img src="Resources/images/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
 
+
 ---
 
 ### Page 1: High-Level Market View
