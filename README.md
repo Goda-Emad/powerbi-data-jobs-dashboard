@@ -43,7 +43,7 @@ This project demonstrates advanced Power BI capabilities including:
 
 ## 📊 Dashboard Preview
 
-### Overview (Both Pages)
+### Overview
 
 <img src="Resources/images/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
 
@@ -83,4 +83,3 @@ This dashboard transforms raw job posting data into a **powerful career insights
 - Replace `PUT_YOUR_POWER_BI_LINK_HERE` with your live Power BI Service link (if available).  
 - Ensure all images are uploaded to: `Resources/images/`.  
 - Badge links can be customized to highlight other tools if desired.
-
