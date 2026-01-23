@@ -4,8 +4,7 @@
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 <a href="PUT_YOUR_POWER_BI_LINK_HERE" target="_blank">
-  <img src="Resources/images/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
-</a>
+ <img src="Resources/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
 
 > <a href="PUT_YOUR_POWER_BI_LINK_HERE" target="_blank">📊 View interactive dashboard on the Power BI Service</a>
 
