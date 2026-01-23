@@ -4,7 +4,8 @@
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 <a href="PUT_YOUR_POWER_BI_LINK_HERE" target="_blank">
- <img src="Resources/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
+  <img src="Resources/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
+</a>
 
 > <a href="PUT_YOUR_POWER_BI_LINK_HERE" target="_blank">📊 View interactive dashboard on the Power BI Service</a>
 
@@ -44,8 +45,9 @@ This project demonstrates advanced Power BI capabilities including:
 
 ### Overview
 
-<img src="Resources/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
-
+<a href="PUT_YOUR_POWER_BI_LINK_HERE" target="_blank">
+  <img src="Resources/Project1_Dashboard_Overview.png" alt="Data Jobs Dashboard Overview" width="800">
+</a>
 
 ---
 
@@ -81,5 +83,5 @@ This dashboard transforms raw job posting data into a **powerful career insights
 ## 🏷️ Notes
 
 - Replace `PUT_YOUR_POWER_BI_LINK_HERE` with your live Power BI Service link (if available).  
-- Ensure all images are uploaded to: `Resources/images/`.  
+- Ensure all images are uploaded to: `Resources/`.  
 - Badge links can be customized to highlight other tools if desired.
